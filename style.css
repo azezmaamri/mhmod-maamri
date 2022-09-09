@@ -70,4 +70,7 @@ padding: 5px;
     nav i {
         color: white;
     }
+    #btn1 {
+            width: 90%;
+    }
 }
