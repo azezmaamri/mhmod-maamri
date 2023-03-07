@@ -145,7 +145,7 @@ form {
   textarea:focus,
   input:focus {
     font-size: 13px;
-    background: #eee;
+    background: none;
   }
 }
 
