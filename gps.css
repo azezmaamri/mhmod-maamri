@@ -63,6 +63,7 @@ form {
     margin: auto;
     transform: translateY(-50%);
     background-color: black;
+    touch-action: pan-y;
 }
 .in2 {
     margin: auto;
@@ -82,6 +83,7 @@ form {
     margin: auto;
     transform: translateY(-50%);
     background-color: black;
+    touch-action: pan-y;
 }
 .show {
     border: 2px solid aqua;
