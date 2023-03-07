@@ -112,6 +112,16 @@ form {
     margin: auto;
     transform: translateY(-50%);
 }
+@media and (max-width:700px) {
+    height: 300px;
+    width: 300px;
+    left: 12%;
+    top: 50%;
+    position: absolute;
+    margin: auto;
+    text-align: center;
+    transform: none;
+}
 
 
 
