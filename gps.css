@@ -126,6 +126,16 @@ form {
     body {
         touch-action: pan-y;
     }
+    .show {
+    border: 2px solid aqua;
+    background-color: black;
+    display: none;
+    height: auto;
+    width: 300px;
+    left: 12%;
+    top: 50%;
+    position: absolute;
+}
 }
 
 
