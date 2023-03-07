@@ -150,6 +150,31 @@ form {
 }
 
 
+@media screen and (max-width:700px) {
+        .show {
+        border: 2px solid aqua;
+        background-color: black;
+        display: none;
+        height: auto;
+        width: 300px;
+        left: 12%;
+        top: 50%;
+        position: absolute;
+    }
+    #bas_2 {
+        border: 2px solid aqua;
+        background-color: black;
+        display: none;
+        height: auto;
+        width: 300px;
+        left: 12%;
+        top: 50%;
+        position: absolute;
+        transform: none;
+    }
+}
+
+
 
 
 
