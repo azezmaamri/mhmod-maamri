@@ -123,6 +123,9 @@ form {
         text-align: center;
         transform: none;
     }
+    body {
+        touch-action: pan-y;
+    }
 }
 
 
