@@ -113,15 +113,16 @@ form {
     transform: translateY(-50%);
 }
 @media and (max-width:700px) {
-    touch-action: pan-y;
-    height: 300px;
-    width: 300px;
-    left: 12%;
-    top: 50%;
-    position: absolute;
-    margin: auto;
-    text-align: center;
-    transform: none;
+    #bas_2 {
+        height: 300px;
+        width: 300px;
+        left: 12%;
+        top: 50%;
+        position: absolute;
+        margin: auto;
+        text-align: center;
+        transform: none;
+    }
 }
 
 
