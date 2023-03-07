@@ -157,7 +157,7 @@ form {
         display: none;
         height: auto;
         width: 300px;
-        left: 12%;
+        left: 13%;
         top: 100%;
         position: absolute;
     }
@@ -165,9 +165,9 @@ form {
         border: 2px solid aqua;
         background-color: black;
         display: none;
-        height: auto;
+        height: 300px;
         width: 300px;
-        left: 12%;
+        left: 13%;
         top: 100%;
         position: absolute;
         transform: none;
